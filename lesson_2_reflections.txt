@@ -10,14 +10,23 @@ to create specific commits with files
 How can you use the staging area to make sure you have one commit per logical
 change?
 
+only add the files which should be in the commit
+
 What are some situations when branches would be helpful in keeping your history
 organized? How would branches help?
 
+different version and features or experiments
+
 How do the diagrams help you visualize the branch structure?
+
+see how they split up and also see reachability
 
 What is the result of merging two branches together? Why do we represent it in
 the diagram the way we do?
 
+combining two different features into one
+
 What are the pros and cons of Gitâ€™s automatic merging vs. always doing merges
 manually?
 
+git recognizes some changes on its own so you don't have to merge them manually
